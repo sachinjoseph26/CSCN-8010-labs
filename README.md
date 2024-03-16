@@ -11,3 +11,7 @@ Lab 5 Files updated, HTML file in /docs folder.
 
 Lab 6 Files updated, HTML file in /docs folder.
 
+Lab 7 Files updated, HTML file in /docs folder.
+
+Lab 8 Files updated, HTML file in /docs folder.
+
